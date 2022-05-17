@@ -6,7 +6,7 @@ import discord
 
 # -- Global Var
 # --- Directory
-directory_base   = '/home/discordbot/servercontroller'
+directory_base   = '/opt/servercontroller'
 directory_config = directory_base + '/config'
 
 # --- Config
